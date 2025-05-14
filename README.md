@@ -28,6 +28,12 @@ We investigate the vulnerability of production-grade image classifiers to variou
 - DenseNet-121 (for transferability study)
 
 ---
+## Setup
+1. Clone this repository
+2. Install required packages: `pip install -r requirements.txt`
+3. Download the test dataset and place it in `data/TestDataSet`
+4. Run the notebook
+---
 ## 📈 Result
 Transferability Results:
 | Dataset               |   Top-1 (%) |   Top-5 (%) |
